@@ -1,6 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-<h2>Nota: Aun esta en fase de prueba por lo que cuando esta termine los pasos tendran una mejor ejecuccion y a la vez habran mas pasos que facilitaran el uso del codigo</h2>
+<h2>Nota: Aun esta en fase de prueba por lo que cuando esta termine los pasos tendran una mejor ejecucion y a la vez habran mas pasos que facilitaran el uso del codigo</h2>
 <h3>Pasos para que el proyecto pueda ejecutarse con exito</h3>
 <p>1- Para Instalar ejecute composer install</p>
 <br>
