@@ -2,7 +2,11 @@
 
 <h2>Pasos para que el proyecto pueda ejecutarse con exito</h2>
 <p>1- Para Instalar ejecute composer install</p>
-<p>2- Haga una limpieza de rutas, cache, configuraciones y vistas usando en la terminal los comandos php artisan route,  php artisan config,  php artisan cache,  php artisan view poniendo un :clear al final de cada uno.</p>
+<br>
+<p>2- Haga una limpieza de rutas, cache, configuraciones y vistas usando en la terminal los comandos php artisan route,  php artisan config,  php artisan cache,  php artisan view poniendo un :clear al final de cada uno</p>
+<p>Importante: cada comando ha de ser ejecutado individualmente y cada uno ha de tener el :clear al final</p>
+<br>
+
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
